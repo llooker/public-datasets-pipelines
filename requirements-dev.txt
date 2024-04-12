@@ -107,7 +107,7 @@ hdfs==2.6.0
 httpcore==0.13.7; python_version >= '3.6'
 httplib2==0.19.1
 httpx==0.19.0; python_version >= '3.6'
-idna==3.2
+idna==3.7
 importlib-metadata==1.7.0; python_version < '3.9'
 importlib-resources==1.5.0; python_version < '3.9'
 inflection==0.5.1; python_version >= '3.5'
