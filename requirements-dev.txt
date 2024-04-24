@@ -10,7 +10,7 @@ alembic==1.7.3; python_version >= '3.6'
 anyio==3.3.1; python_full_version >= '3.6.2'
 apache-airflow-providers-apache-beam==3.0.1
 apache-airflow-providers-cncf-kubernetes==2.0.2
-apache-airflow-providers-ftp==2.0.1; python_version ~= '3.6'
+apache-airflow-providers-ftp==3.7.0; python_version ~= '3.6'
 apache-airflow-providers-google==5.1.0
 apache-airflow-providers-imap==2.0.1; python_version ~= '3.6'
 apache-airflow-providers-sqlite==2.0.1; python_version ~= '3.6'
